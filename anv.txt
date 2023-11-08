@@ -1,0 +1,2 @@
+hello there 
+cout<<"welcome to the world of ash "<<endl;
